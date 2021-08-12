@@ -12,7 +12,8 @@ sites:
   - name: DiscreteMath.ca
     url: https://discretemath.ca
   - name: DiscreteMath.ca API
-    url: https://api.discretemath.ca
+    url: https://api.discretemath.ca/graphql
+    method: POST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
