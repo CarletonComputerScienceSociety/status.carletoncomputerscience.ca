@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 183,
     "timeDay": 178,
-    "timeWeek": 210,
+    "timeWeek": 209,
     "timeMonth": 210,
     "timeYear": 183,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.82%",
     "time": 1096,
     "timeDay": 951,
-    "timeWeek": 1094,
+    "timeWeek": 1085,
     "timeMonth": 1113,
     "timeYear": 1096,
     "dailyMinutesDown": {
@@ -46,14 +46,14 @@
     "icon": "https://favicons.githubusercontent.com/courses.carletoncomputerscience.ca",
     "slug": "course-website",
     "status": "up",
-    "uptime": "93.79%",
+    "uptime": "93.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "93.79%",
+    "uptimeYear": "93.80%",
     "time": 349,
     "timeDay": 306,
-    "timeWeek": 328,
+    "timeWeek": 331,
     "timeMonth": 337,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -78,7 +78,7 @@
     "uptimeYear": "98.69%",
     "time": 229,
     "timeDay": 205,
-    "timeWeek": 246,
+    "timeWeek": 245,
     "timeMonth": 243,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
     "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 382,
-    "timeWeek": 405,
+    "timeWeek": 400,
     "timeMonth": 412,
     "timeYear": 407,
     "dailyMinutesDown": {}
