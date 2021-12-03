@@ -1,7 +1,7 @@
 url: https://api.merged.carletoncomputerscience.ca/api
-status: up
-code: 200
-responseTime: 366
-lastUpdated: 2021-12-03T11:10:08.386Z
+status: down
+code: 502
+responseTime: 240
+lastUpdated: 2021-12-03T12:27:50.650Z
 startTime: Mon Sep 06 2021 23:54:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
