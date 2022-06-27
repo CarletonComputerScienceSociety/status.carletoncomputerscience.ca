@@ -1,7 +1,7 @@
 url: https://scs.carleton.ca
-status: up
-code: 200
-responseTime: 1343
-lastUpdated: 2022-06-27T17:19:46.102Z
+status: down
+code: 503
+responseTime: 761
+lastUpdated: 2022-06-27T17:46:11.164Z
 startTime: Sun Aug 08 2021 15:10:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
