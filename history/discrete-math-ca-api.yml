@@ -1,7 +1,7 @@
 url: https://api.discretemath.ca/graphql
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-15T11:56:46.559Z
+status: up
+code: 200
+responseTime: 341
+lastUpdated: 2023-09-15T12:09:41.286Z
 startTime: 2021-08-08T15:11:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
