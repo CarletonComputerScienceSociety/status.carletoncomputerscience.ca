@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.34%",
-    "time": 1106,
-    "timeDay": 956,
-    "timeWeek": 957,
-    "timeMonth": 1194,
-    "timeYear": 1106,
+    "time": 1104,
+    "timeDay": 896,
+    "timeWeek": 911,
+    "timeMonth": 1170,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2024-04-26": 6,
       "2024-03-24": 6,
@@ -73,16 +73,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
     "status": "up",
-    "uptime": "93.12%",
+    "uptime": "93.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.97%",
+    "uptimeYear": "86.52%",
     "time": 988,
-    "timeDay": 988,
-    "timeWeek": 934,
-    "timeMonth": 986,
-    "timeYear": 988,
+    "timeDay": 972,
+    "timeWeek": 952,
+    "timeMonth": 988,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2024-07-02": 6,
       "2024-06-12": 5,
@@ -148,9 +148,7 @@
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
-      "2023-08-15": 1440,
-      "2023-08-14": 1440,
-      "2023-08-13": 1440
+      "2023-08-15": 1440
     }
   },
   {
@@ -165,7 +163,7 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 207,
+    "timeDay": 176,
     "timeWeek": 187,
     "timeMonth": 193,
     "timeYear": 184,
@@ -183,15 +181,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "up",
-    "uptime": "93.42%",
+    "uptime": "93.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.09%",
+    "uptimeYear": "92.64%",
     "time": 199,
-    "timeDay": 202,
+    "timeDay": 189,
     "timeWeek": 194,
-    "timeMonth": 202,
+    "timeMonth": 201,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2024-06-29": 391,
@@ -229,9 +227,7 @@
       "2023-09-15": 13,
       "2023-09-08": 251,
       "2023-09-07": 1391,
-      "2023-08-15": 889,
-      "2023-08-14": 1440,
-      "2023-08-13": 1440
+      "2023-08-15": 889
     }
   },
   {
@@ -240,14 +236,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "up",
-    "uptime": "92.75%",
+    "uptime": "92.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.09%",
+    "uptimeYear": "90.64%",
     "time": 235,
-    "timeDay": 242,
-    "timeWeek": 235,
+    "timeDay": 229,
+    "timeWeek": 236,
     "timeMonth": 245,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -289,9 +285,7 @@
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1391,
-      "2023-08-15": 889,
-      "2023-08-14": 1440,
-      "2023-08-13": 1440
+      "2023-08-15": 889
     }
   },
   {
@@ -300,7 +294,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "31.96%",
+    "uptime": "31.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -311,7 +305,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-11": 135,
+      "2024-08-13": 128,
+      "2024-08-12": 1440,
+      "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
       "2024-08-08": 1440,
@@ -673,9 +669,7 @@
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
-      "2023-08-15": 1440,
-      "2023-08-14": 1440,
-      "2023-08-13": 1440
+      "2023-08-15": 1440
     }
   },
   {
@@ -684,7 +678,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "31.96%",
+    "uptime": "31.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -695,7 +689,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-11": 135,
+      "2024-08-13": 128,
+      "2024-08-12": 1440,
+      "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
       "2024-08-08": 1440,
@@ -1057,9 +1053,7 @@
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
-      "2023-08-15": 1440,
-      "2023-08-14": 1440,
-      "2023-08-13": 1440
+      "2023-08-15": 1440
     }
   }
 ]
