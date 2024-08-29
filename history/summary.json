@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.34%",
     "time": 1089,
-    "timeDay": 536,
-    "timeWeek": 970,
-    "timeMonth": 978,
-    "timeYear": 1087,
+    "timeDay": 746,
+    "timeWeek": 994,
+    "timeMonth": 964,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2024-04-26": 6,
       "2024-03-24": 6,
@@ -73,16 +73,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
     "status": "up",
-    "uptime": "93.22%",
+    "uptime": "93.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.63%",
+    "uptimeYear": "90.90%",
     "time": 986,
-    "timeDay": 1257,
-    "timeWeek": 1010,
+    "timeDay": 1038,
+    "timeWeek": 1003,
     "timeMonth": 974,
-    "timeYear": 986,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2024-07-02": 6,
       "2024-06-12": 5,
@@ -132,8 +132,7 @@
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
-      "2023-08-31": 1440,
-      "2023-08-30": 1440
+      "2023-08-31": 1440
     }
   },
   {
@@ -147,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 183,
-    "timeDay": 229,
-    "timeWeek": 199,
-    "timeMonth": 189,
-    "timeYear": 182,
+    "time": 184,
+    "timeDay": 338,
+    "timeWeek": 221,
+    "timeMonth": 195,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2024-07-27": 6,
       "2024-06-25": 6,
@@ -172,8 +171,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.33%",
     "time": 199,
-    "timeDay": 245,
-    "timeWeek": 208,
+    "timeDay": 229,
+    "timeWeek": 209,
     "timeMonth": 201,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -220,15 +219,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "up",
-    "uptime": "92.86%",
+    "uptime": "92.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.33%",
-    "time": 234,
-    "timeDay": 284,
-    "timeWeek": 254,
-    "timeMonth": 246,
+    "time": 235,
+    "timeDay": 273,
+    "timeWeek": 255,
+    "timeMonth": 247,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-06-29": 391,
@@ -277,7 +276,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "31.46%",
+    "uptime": "31.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -288,7 +287,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-28": 131,
+      "2024-08-29": 131,
+      "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -651,8 +651,7 @@
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
-      "2023-08-31": 1440,
-      "2023-08-30": 1440
+      "2023-08-31": 1440
     }
   },
   {
@@ -661,7 +660,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "31.46%",
+    "uptime": "31.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -672,7 +671,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-28": 131,
+      "2024-08-29": 132,
+      "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -1035,8 +1035,7 @@
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
-      "2023-08-31": 1440,
-      "2023-08-30": 1440
+      "2023-08-31": 1440
     }
   }
 ]
