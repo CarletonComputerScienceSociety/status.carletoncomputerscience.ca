@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccss.carleton.ca.ico",
     "slug": "ccss-website",
     "status": "up",
-    "uptime": "96.54%",
+    "uptime": "96.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.34%",
-    "time": 1069,
-    "timeDay": 1163,
-    "timeWeek": 803,
-    "timeMonth": 912,
-    "timeYear": 1067,
+    "time": 1070,
+    "timeDay": 1519,
+    "timeWeek": 952,
+    "timeMonth": 928,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2024-04-26": 6,
       "2024-03-24": 6,
@@ -72,16 +72,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
     "status": "up",
-    "uptime": "93.30%",
+    "uptime": "93.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.66%",
-    "time": 986,
-    "timeDay": 1191,
-    "timeWeek": 1061,
-    "timeMonth": 998,
-    "timeYear": 987,
+    "time": 985,
+    "timeDay": 925,
+    "timeWeek": 1043,
+    "timeMonth": 996,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2024-07-02": 6,
       "2024-06-12": 5,
@@ -137,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 283,
+    "timeDay": 220,
     "timeWeek": 222,
-    "timeMonth": 204,
+    "timeMonth": 205,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2024-07-27": 6,
@@ -155,14 +155,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "up",
-    "uptime": "93.59%",
+    "uptime": "93.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.64%",
-    "time": 199,
-    "timeDay": 202,
-    "timeWeek": 216,
+    "time": 198,
+    "timeDay": 197,
+    "timeWeek": 213,
     "timeMonth": 206,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -207,14 +207,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "up",
-    "uptime": "92.94%",
+    "uptime": "92.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.17%",
+    "uptimeYear": "92.45%",
     "time": 234,
-    "timeDay": 234,
-    "timeWeek": 256,
+    "timeDay": 236,
+    "timeWeek": 252,
     "timeMonth": 249,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -249,8 +249,7 @@
       "2023-10-16": 4,
       "2023-09-15": 730,
       "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-13": 1440
     }
   },
   {
@@ -259,7 +258,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "31.09%",
+    "uptime": "31.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -270,7 +269,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 136,
+      "2024-09-11": 136,
+      "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -633,8 +633,7 @@
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-13": 1440
     }
   },
   {
@@ -643,7 +642,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "31.09%",
+    "uptime": "31.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -654,7 +653,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 136,
+      "2024-09-11": 136,
+      "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -1017,8 +1017,7 @@
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-13": 1440
     }
   }
 ]
