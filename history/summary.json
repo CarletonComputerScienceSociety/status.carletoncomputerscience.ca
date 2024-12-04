@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.80%",
-    "time": 991,
-    "timeDay": 747,
-    "timeWeek": 690,
-    "timeMonth": 717,
-    "timeYear": 992,
+    "uptimeYear": "98.35%",
+    "time": 987,
+    "timeDay": 345,
+    "timeWeek": 644,
+    "timeMonth": 684,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2024-10-31": 6,
       "2024-04-26": 6,
@@ -25,9 +25,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -36,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
     "status": "up",
-    "uptime": "93.75%",
+    "uptime": "93.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.88%",
-    "time": 974,
-    "timeDay": 903,
-    "timeWeek": 944,
-    "timeMonth": 949,
+    "uptimeYear": "99.89%",
+    "time": 973,
+    "timeDay": 870,
+    "timeWeek": 961,
+    "timeMonth": 957,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2024-11-29": 8,
@@ -71,18 +69,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 191,
-    "timeDay": 258,
-    "timeWeek": 186,
-    "timeMonth": 202,
+    "time": 192,
+    "timeDay": 175,
+    "timeWeek": 196,
+    "timeMonth": 201,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2024-09-12": 6,
       "2024-09-11": 10,
       "2024-07-27": 6,
       "2024-06-25": 6,
-      "2024-03-16": 31,
-      "2023-12-05": 6
+      "2024-03-16": 31
     }
   },
   {
@@ -91,15 +88,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "up",
-    "uptime": "94.03%",
+    "uptime": "94.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.87%",
-    "time": 197,
-    "timeDay": 193,
-    "timeWeek": 197,
-    "timeMonth": 202,
+    "time": 196,
+    "timeDay": 190,
+    "timeWeek": 204,
+    "timeMonth": 203,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2024-11-08": 7,
@@ -118,14 +115,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "up",
-    "uptime": "93.43%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.87%",
     "time": 233,
-    "timeDay": 227,
-    "timeWeek": 229,
+    "timeDay": 209,
+    "timeWeek": 230,
     "timeMonth": 238,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -143,7 +140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "28.90%",
+    "uptime": "28.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -154,7 +151,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-02": 219,
+      "2024-12-04": 214,
+      "2024-12-03": 1440,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -516,9 +515,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-06": 1440
     }
   },
   {
@@ -527,7 +524,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "28.91%",
+    "uptime": "28.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -538,7 +535,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-02": 219,
+      "2024-12-04": 214,
+      "2024-12-03": 1440,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -900,9 +899,7 @@
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
-      "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-06": 1440
     }
   }
 ]
