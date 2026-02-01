@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 951,
-    "timeWeek": 768,
-    "timeMonth": 895,
-    "timeYear": 1002,
+    "time": 999,
+    "timeDay": 1035,
+    "timeWeek": 743,
+    "timeMonth": 876,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -24,18 +24,19 @@
     "url": "https://scs.carleton.ca",
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
-    "status": "up",
-    "uptime": "97.71%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.78%",
+    "status": "down",
+    "uptime": "97.72%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "96.32%",
-    "time": 933,
-    "timeDay": 1057,
-    "timeWeek": 1080,
-    "timeMonth": 995,
-    "timeYear": 932,
+    "time": 934,
+    "timeDay": 1228,
+    "timeWeek": 1112,
+    "timeMonth": 1006,
+    "timeYear": 933,
     "dailyMinutesDown": {
+      "2026-02-01": 2,
       "2026-01-31": 7,
       "2026-01-30": 14,
       "2026-01-28": 1,
@@ -101,9 +102,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 265,
-    "timeDay": 315,
-    "timeWeek": 337,
-    "timeMonth": 342,
+    "timeDay": 357,
+    "timeWeek": 350,
+    "timeMonth": 345,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2026-01-06": 16,
@@ -126,18 +127,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "72.86%",
+    "uptime": "72.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 236,
+    "time": 242,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 339,
+      "2026-02-01": 601,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -500,8 +502,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -510,18 +511,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "72.41%",
+    "uptime": "72.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 259,
+    "time": 253,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 339,
+      "2026-02-01": 603,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -884,8 +886,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -894,7 +895,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "21.26%",
+    "uptime": "21.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -905,7 +906,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 341,
+      "2026-02-01": 605,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1268,8 +1270,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -1278,7 +1279,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "21.26%",
+    "uptime": "21.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1289,7 +1290,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 341,
+      "2026-02-01": 606,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1652,8 +1654,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   }
 ]
