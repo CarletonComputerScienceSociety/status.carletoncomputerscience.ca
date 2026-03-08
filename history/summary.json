@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 1006,
-    "timeWeek": 927,
-    "timeMonth": 971,
-    "timeYear": 1001,
+    "time": 1002,
+    "timeDay": 1026,
+    "timeWeek": 961,
+    "timeMonth": 986,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -24,18 +24,19 @@
     "url": "https://scs.carleton.ca",
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "88.81%",
-    "uptimeWeek": "47.08%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "91.34%",
     "uptimeMonth": "71.03%",
     "uptimeYear": "93.92%",
-    "time": 919,
-    "timeDay": 748,
-    "timeWeek": 684,
-    "timeMonth": 750,
+    "time": 918,
+    "timeDay": 644,
+    "timeWeek": 697,
+    "timeMonth": 748,
     "timeYear": 920,
     "dailyMinutesDown": {
+      "2026-03-08": 2,
       "2026-03-05": 148,
       "2026-03-04": 14,
       "2026-03-01": 1218,
@@ -109,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 280,
-    "timeDay": 373,
-    "timeWeek": 381,
-    "timeMonth": 385,
-    "timeYear": 281,
+    "time": 281,
+    "timeDay": 347,
+    "timeWeek": 385,
+    "timeMonth": 384,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2026-01-06": 16,
       "2026-01-04": 2,
@@ -134,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "71.42%",
+    "uptime": "71.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -145,7 +146,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 369,
+      "2026-03-08": 512,
+      "2026-03-07": 1440,
+      "2026-03-06": 1440,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -506,10 +510,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -518,7 +519,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "70.98%",
+    "uptime": "70.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -529,7 +530,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 371,
+      "2026-03-08": 514,
+      "2026-03-07": 1440,
+      "2026-03-06": 1440,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -890,10 +894,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -902,7 +903,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "20.83%",
+    "uptime": "20.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -913,7 +914,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 373,
+      "2026-03-08": 516,
+      "2026-03-07": 1440,
+      "2026-03-06": 1440,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -1274,10 +1278,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -1286,7 +1287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "20.83%",
+    "uptime": "20.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1297,7 +1298,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 375,
+      "2026-03-08": 516,
+      "2026-03-07": 1440,
+      "2026-03-06": 1440,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -1658,10 +1662,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-09": 1440
     }
   }
 ]
