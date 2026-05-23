@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1020,
-    "timeDay": 2689,
-    "timeWeek": 1233,
-    "timeMonth": 1164,
-    "timeYear": 1016,
+    "time": 1021,
+    "timeDay": 2807,
+    "timeWeek": 1328,
+    "timeMonth": 1179,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -29,10 +29,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "95.10%",
+    "uptimeYear": "95.12%",
     "time": 883,
-    "timeDay": 709,
-    "timeWeek": 679,
+    "timeDay": 699,
+    "timeWeek": 680,
     "timeMonth": 762,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -100,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 316,
-    "timeDay": 382,
-    "timeWeek": 492,
-    "timeMonth": 506,
+    "timeDay": 434,
+    "timeWeek": 483,
+    "timeMonth": 507,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2026-03-27": 73,
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 630,
+      "2026-05-23": 723,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -508,7 +508,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "67.77%",
+    "uptime": "67.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 631,
+      "2026-05-23": 725,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -903,7 +903,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 632,
+      "2026-05-23": 727,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -1287,7 +1287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 633,
+      "2026-05-23": 727,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
