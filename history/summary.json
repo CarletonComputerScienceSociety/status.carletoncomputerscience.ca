@@ -13,7 +13,7 @@
     "time": 1019,
     "timeDay": 147,
     "timeWeek": 1039,
-    "timeMonth": 1141,
+    "timeMonth": 1144,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-08-06": 9
@@ -33,7 +33,7 @@
     "time": 876,
     "timeDay": 538,
     "timeWeek": 661,
-    "timeMonth": 698,
+    "timeMonth": 696,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2025-06-07": 61,
@@ -93,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses.carletoncomputerscience.ca.ico",
     "slug": "course-website",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.73%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.93%",
     "time": 320,
     "timeDay": 654,
     "timeWeek": 446,
@@ -115,7 +115,7 @@
       "2026-01-06": 16,
       "2026-03-11": 12,
       "2026-03-27": 73,
-      "2026-06-02": 5
+      "2026-06-02": 126
     }
   },
   {
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 388,
+      "2026-06-02": 510,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -508,7 +508,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "67.39%",
+    "uptime": "67.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 390,
+      "2026-06-02": 512,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -903,7 +903,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 392,
+      "2026-06-02": 514,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -1287,7 +1287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 392,
+      "2026-06-02": 514,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
