@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
-    "timeDay": 995,
-    "timeWeek": 788,
-    "timeMonth": 1157,
+    "timeDay": 1290,
+    "timeWeek": 841,
+    "timeMonth": 1155,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2025-08-06": 9
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.47%",
     "time": 875,
-    "timeDay": 921,
-    "timeWeek": 714,
-    "timeMonth": 698,
+    "timeDay": 827,
+    "timeWeek": 700,
+    "timeMonth": 696,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2025-06-07": 61,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.93%",
     "time": 323,
-    "timeDay": 478,
+    "timeDay": 446,
     "timeWeek": 495,
-    "timeMonth": 506,
+    "timeMonth": 500,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-07-02": 30,
@@ -124,7 +124,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "67.64%",
+    "uptime": "67.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 916,
+      "2026-06-06": 1032,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 917,
+      "2026-06-06": 1034,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -903,7 +903,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 919,
+      "2026-06-06": 1036,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -1287,7 +1287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 919,
+      "2026-06-06": 1036,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
