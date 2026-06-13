@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1699,
-    "timeWeek": 1394,
-    "timeMonth": 1208,
-    "timeYear": 1013,
+    "time": 1013,
+    "timeDay": 1996,
+    "timeWeek": 1465,
+    "timeMonth": 1223,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 873,
-    "timeDay": 1244,
-    "timeWeek": 689,
-    "timeMonth": 680,
+    "timeDay": 1314,
+    "timeWeek": 707,
+    "timeMonth": 684,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.92%",
     "time": 325,
-    "timeDay": 406,
-    "timeWeek": 492,
-    "timeMonth": 488,
+    "timeDay": 374,
+    "timeWeek": 493,
+    "timeMonth": 486,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-07-02": 30,
@@ -125,7 +125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "67.38%",
+    "uptime": "67.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 537,
+      "2026-06-13": 677,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 539,
+      "2026-06-13": 678,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 541,
+      "2026-06-13": 680,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 541,
+      "2026-06-13": 681,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
