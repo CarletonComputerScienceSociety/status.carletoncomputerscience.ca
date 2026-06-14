@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1014,
-    "timeDay": 1018,
-    "timeWeek": 1275,
+    "timeDay": 1021,
+    "timeWeek": 1193,
     "timeMonth": 1237,
-    "timeYear": 1014,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 873,
-    "timeDay": 849,
-    "timeWeek": 749,
-    "timeMonth": 686,
+    "timeDay": 835,
+    "timeWeek": 748,
+    "timeMonth": 685,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -93,14 +93,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/courses.carletoncomputerscience.ca.ico",
     "slug": "course-website",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.92%",
     "time": 326,
-    "timeDay": 565,
-    "timeWeek": 507,
+    "timeDay": 553,
+    "timeWeek": 508,
     "timeMonth": 486,
     "timeYear": 327,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 838,
+      "2026-06-14": 952,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 839,
+      "2026-06-14": 952,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 840,
+      "2026-06-14": 954,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 841,
+      "2026-06-14": 954,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
