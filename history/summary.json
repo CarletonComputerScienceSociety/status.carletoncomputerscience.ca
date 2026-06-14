@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 949,
-    "timeWeek": 1189,
-    "timeMonth": 1219,
-    "timeYear": 1013,
+    "time": 1014,
+    "timeDay": 943,
+    "timeWeek": 1258,
+    "timeMonth": 1237,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 873,
-    "timeDay": 976,
-    "timeWeek": 754,
-    "timeMonth": 687,
+    "timeDay": 865,
+    "timeWeek": 753,
+    "timeMonth": 686,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.92%",
     "time": 326,
-    "timeDay": 504,
+    "timeDay": 556,
     "timeWeek": 506,
-    "timeMonth": 487,
+    "timeMonth": 486,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2025-07-02": 30,
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 573,
+      "2026-06-14": 719,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -509,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "66.93%",
+    "uptime": "66.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 574,
+      "2026-06-14": 719,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 576,
+      "2026-06-14": 721,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 576,
+      "2026-06-14": 721,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
