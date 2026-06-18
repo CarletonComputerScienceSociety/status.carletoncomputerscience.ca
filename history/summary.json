@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 844,
-    "timeWeek": 1215,
-    "timeMonth": 1197,
-    "timeYear": 1011,
+    "time": 1015,
+    "timeDay": 1330,
+    "timeWeek": 1216,
+    "timeMonth": 1196,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 872,
-    "timeDay": 707,
-    "timeWeek": 803,
-    "timeMonth": 680,
+    "timeDay": 638,
+    "timeWeek": 798,
+    "timeMonth": 682,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.92%",
     "time": 327,
-    "timeDay": 364,
-    "timeWeek": 479,
-    "timeMonth": 485,
+    "timeDay": 422,
+    "timeWeek": 484,
+    "timeMonth": 486,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2025-07-02": 30,
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 356,
+      "2026-06-18": 620,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -509,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "66.78%",
+    "uptime": "66.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 357,
+      "2026-06-18": 622,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 359,
+      "2026-06-18": 623,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 359,
+      "2026-06-18": 624,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
