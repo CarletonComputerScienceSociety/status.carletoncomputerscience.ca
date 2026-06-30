@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccss.carleton.ca.ico",
     "slug": "ccss-website",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1013,
-    "timeDay": 184,
-    "timeWeek": 1190,
-    "timeMonth": 1136,
-    "timeYear": 1015,
+    "timeDay": 177,
+    "timeWeek": 1191,
+    "timeMonth": 1117,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -30,9 +30,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
-    "time": 869,
-    "timeDay": 879,
-    "timeWeek": 766,
+    "time": 868,
+    "timeDay": 906,
+    "timeWeek": 772,
     "timeMonth": 725,
     "timeYear": 866,
     "dailyMinutesDown": {
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.90%",
     "time": 332,
-    "timeDay": 539,
-    "timeWeek": 454,
-    "timeMonth": 476,
+    "timeDay": 511,
+    "timeWeek": 452,
+    "timeMonth": 479,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-07-02": 30,
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1139,
+      "2026-06-30": 1338,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1141,
+      "2026-06-30": 1339,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1143,
+      "2026-06-30": 1340,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1144,
+      "2026-06-30": 1341,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
