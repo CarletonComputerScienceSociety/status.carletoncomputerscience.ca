@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1014,
-    "timeDay": 1355,
-    "timeWeek": 1345,
-    "timeMonth": 1145,
+    "timeDay": 1350,
+    "timeWeek": 1280,
+    "timeMonth": 1128,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2025-08-06": 9
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 869,
-    "timeDay": 746,
-    "timeWeek": 721,
-    "timeMonth": 713,
+    "timeDay": 794,
+    "timeWeek": 732,
+    "timeMonth": 717,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.90%",
     "time": 332,
-    "timeDay": 517,
-    "timeWeek": 453,
-    "timeMonth": 470,
+    "timeDay": 506,
+    "timeWeek": 456,
+    "timeMonth": 471,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-07-02": 30,
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "66.75%",
+    "uptime": "66.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 5,
+      "2026-06-30": 223,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 5,
+      "2026-06-30": 223,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 7,
+      "2026-06-30": 225,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 8,
+      "2026-06-30": 226,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
