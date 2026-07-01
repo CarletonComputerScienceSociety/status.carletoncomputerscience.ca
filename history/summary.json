@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
-    "timeDay": 163,
-    "timeWeek": 1082,
+    "timeDay": 159,
+    "timeWeek": 1078,
     "timeMonth": 1108,
-    "timeYear": 1015,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 868,
-    "timeDay": 674,
-    "timeWeek": 769,
-    "timeMonth": 730,
+    "timeDay": 718,
+    "timeWeek": 763,
+    "timeMonth": 731,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.90%",
     "time": 332,
-    "timeDay": 434,
-    "timeWeek": 444,
-    "timeMonth": 477,
+    "timeDay": 448,
+    "timeWeek": 452,
+    "timeMonth": 475,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2025-07-02": 30,
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "66.69%",
+    "uptime": "66.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 1036,
+      "2026-07-01": 1193,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -510,7 +510,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "66.28%",
+    "uptime": "66.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 1037,
+      "2026-07-01": 1194,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 1039,
+      "2026-07-01": 1196,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 1039,
+      "2026-07-01": 1196,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
