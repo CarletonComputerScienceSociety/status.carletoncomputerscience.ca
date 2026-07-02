@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
-    "timeDay": 223,
-    "timeWeek": 832,
-    "timeMonth": 1083,
+    "timeDay": 228,
+    "timeWeek": 764,
+    "timeMonth": 1079,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-08-06": 9
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 868,
-    "timeDay": 787,
-    "timeWeek": 761,
-    "timeMonth": 737,
+    "timeDay": 748,
+    "timeWeek": 744,
+    "timeMonth": 735,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -99,8 +99,8 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
     "time": 332,
-    "timeDay": 603,
-    "timeWeek": 483,
+    "timeDay": 630,
+    "timeWeek": 490,
     "timeMonth": 479,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1265,
+      "2026-07-02": 1332,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1266,
+      "2026-07-02": 1332,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -893,7 +893,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "19.42%",
+    "uptime": "19.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1268,
+      "2026-07-02": 1334,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1268,
+      "2026-07-02": 1335,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
