@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1013,
-    "timeDay": 875,
-    "timeWeek": 635,
-    "timeMonth": 1069,
-    "timeYear": 1012,
+    "timeDay": 1253,
+    "timeWeek": 704,
+    "timeMonth": 1087,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.43%",
     "time": 868,
-    "timeDay": 769,
-    "timeWeek": 776,
-    "timeMonth": 746,
+    "timeDay": 784,
+    "timeWeek": 786,
+    "timeMonth": 749,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
     "time": 333,
-    "timeDay": 563,
-    "timeWeek": 503,
-    "timeMonth": 478,
+    "timeDay": 513,
+    "timeWeek": 493,
+    "timeMonth": 476,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-07-24": 28,
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 688,
+      "2026-07-04": 800,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -509,7 +509,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "66.18%",
+    "uptime": "66.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 690,
+      "2026-07-04": 802,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 692,
+      "2026-07-04": 804,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 692,
+      "2026-07-04": 804,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
