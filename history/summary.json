@@ -24,16 +24,16 @@
     "url": "https://scs.carleton.ca",
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "95.42%",
     "time": 867,
-    "timeDay": 845,
-    "timeWeek": 806,
-    "timeMonth": 749,
+    "timeDay": 864,
+    "timeWeek": 810,
+    "timeMonth": 750,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -85,7 +85,7 @@
       "2026-04-16": 69,
       "2026-04-28": 192,
       "2026-06-08": 239,
-      "2026-07-05": 37
+      "2026-07-05": 65
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 918,
+      "2026-07-05": 949,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 919,
+      "2026-07-05": 949,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -894,7 +894,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "19.39%",
+    "uptime": "19.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 920,
+      "2026-07-05": 951,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 921,
+      "2026-07-05": 951,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
