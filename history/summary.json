@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1010,
     "timeDay": 223,
-    "timeWeek": 502,
+    "timeWeek": 508,
     "timeMonth": 1067,
     "timeYear": 1011,
     "dailyMinutesDown": {
@@ -26,13 +26,13 @@
     "slug": "scs-website",
     "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "95.43%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "95.42%",
     "time": 867,
     "timeDay": 845,
-    "timeWeek": 799,
+    "timeWeek": 806,
     "timeMonth": 749,
     "timeYear": 865,
     "dailyMinutesDown": {
@@ -85,7 +85,7 @@
       "2026-04-16": 69,
       "2026-04-28": 192,
       "2026-06-08": 239,
-      "2026-07-05": 3
+      "2026-07-05": 37
     }
   },
   {
@@ -101,7 +101,7 @@
     "uptimeYear": "99.91%",
     "time": 335,
     "timeDay": 410,
-    "timeWeek": 495,
+    "timeWeek": 493,
     "timeMonth": 474,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 885,
+      "2026-07-05": 918,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 886,
+      "2026-07-05": 919,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 887,
+      "2026-07-05": 920,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 888,
+      "2026-07-05": 921,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
