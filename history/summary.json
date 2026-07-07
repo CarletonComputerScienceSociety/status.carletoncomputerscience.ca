@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
-    "timeDay": 1416,
-    "timeWeek": 687,
-    "timeMonth": 1080,
-    "timeYear": 1011,
+    "timeDay": 1997,
+    "timeWeek": 754,
+    "timeMonth": 1096,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.17%",
     "uptimeYear": "95.41%",
     "time": 866,
-    "timeDay": 654,
-    "timeWeek": 782,
-    "timeMonth": 743,
+    "timeDay": 803,
+    "timeWeek": 780,
+    "timeMonth": 746,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -100,10 +100,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 335,
-    "timeDay": 447,
-    "timeWeek": 485,
-    "timeMonth": 472,
-    "timeYear": 336,
+    "timeDay": 508,
+    "timeWeek": 491,
+    "timeMonth": 473,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2025-07-24": 28,
       "2025-08-08": 12,
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "66.49%",
+    "uptime": "66.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 8,
+      "2026-07-07": 255,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 9,
+      "2026-07-07": 257,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 10,
+      "2026-07-07": 259,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 11,
+      "2026-07-07": 261,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
