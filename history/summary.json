@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1015,
-    "timeDay": 1215,
-    "timeWeek": 1223,
+    "timeDay": 742,
+    "timeWeek": 1222,
     "timeMonth": 1123,
-    "timeYear": 1014,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "95.41%",
     "time": 865,
-    "timeDay": 854,
-    "timeWeek": 784,
+    "timeDay": 792,
+    "timeWeek": 778,
     "timeMonth": 762,
     "timeYear": 864,
     "dailyMinutesDown": {
@@ -100,9 +100,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 336,
-    "timeDay": 401,
-    "timeWeek": 447,
-    "timeMonth": 463,
+    "timeDay": 384,
+    "timeWeek": 445,
+    "timeMonth": 460,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2025-07-24": 28,
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 1284,
+      "2026-07-09": 1392,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -510,7 +510,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "65.98%",
+    "uptime": "65.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 1285,
+      "2026-07-09": 1393,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 1287,
+      "2026-07-09": 1394,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 1287,
+      "2026-07-09": 1395,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
