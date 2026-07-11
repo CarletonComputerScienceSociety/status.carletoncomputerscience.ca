@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1015,
-    "timeDay": 941,
-    "timeWeek": 1277,
+    "timeDay": 1034,
+    "timeWeek": 1242,
     "timeMonth": 1111,
     "timeYear": 1013,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "95.41%",
     "time": 864,
-    "timeDay": 640,
-    "timeWeek": 747,
+    "timeDay": 665,
+    "timeWeek": 746,
     "timeMonth": 766,
     "timeYear": 863,
     "dailyMinutesDown": {
@@ -100,8 +100,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 336,
-    "timeDay": 490,
-    "timeWeek": 435,
+    "timeDay": 465,
+    "timeWeek": 436,
     "timeMonth": 461,
     "timeYear": 338,
     "dailyMinutesDown": {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 3,
+      "2026-07-11": 137,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -510,7 +510,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "65.94%",
+    "uptime": "65.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 5,
+      "2026-07-11": 138,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 6,
+      "2026-07-11": 139,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 7,
+      "2026-07-11": 140,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
