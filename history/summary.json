@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1016,
-    "timeDay": 1182,
-    "timeWeek": 1382,
-    "timeMonth": 1129,
+    "timeDay": 1098,
+    "timeWeek": 1363,
+    "timeMonth": 1125,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2025-08-06": 9
@@ -24,10 +24,10 @@
     "url": "https://scs.carleton.ca",
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "95.41%",
     "time": 864,
@@ -85,7 +85,8 @@
       "2026-04-16": 69,
       "2026-04-28": 192,
       "2026-06-08": 239,
-      "2026-07-05": 126
+      "2026-07-05": 126,
+      "2026-07-12": 3
     }
   },
   {
@@ -100,7 +101,7 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 336,
-    "timeDay": 499,
+    "timeDay": 496,
     "timeWeek": 439,
     "timeMonth": 459,
     "timeYear": 339,
@@ -137,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 494,
+      "2026-07-12": 504,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -521,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 495,
+      "2026-07-12": 504,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -905,7 +906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 497,
+      "2026-07-12": 506,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -1289,7 +1290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 497,
+      "2026-07-12": 506,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
