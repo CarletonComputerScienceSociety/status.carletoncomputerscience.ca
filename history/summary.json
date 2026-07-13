@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 481,
-    "timeWeek": 1179,
-    "timeMonth": 1061,
-    "timeYear": 1012,
+    "time": 1012,
+    "timeDay": 791,
+    "timeWeek": 1223,
+    "timeMonth": 1063,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -24,16 +24,16 @@
     "url": "https://scs.carleton.ca",
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "95.40%",
     "time": 863,
-    "timeDay": 715,
-    "timeWeek": 760,
-    "timeMonth": 755,
+    "timeDay": 735,
+    "timeWeek": 758,
+    "timeMonth": 752,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -86,7 +86,8 @@
       "2026-04-28": 192,
       "2026-06-08": 239,
       "2026-07-05": 126,
-      "2026-07-12": 15
+      "2026-07-12": 15,
+      "2026-07-13": 3
     }
   },
   {
@@ -101,9 +102,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 337,
-    "timeDay": 444,
-    "timeWeek": 448,
-    "timeMonth": 460,
+    "timeDay": 467,
+    "timeWeek": 447,
+    "timeMonth": 461,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-07-24": 28,
@@ -127,7 +128,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "66.26%",
+    "uptime": "66.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -138,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 376,
+      "2026-07-13": 637,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -522,7 +523,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 378,
+      "2026-07-13": 639,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -906,7 +907,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 380,
+      "2026-07-13": 640,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -1290,7 +1291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 380,
+      "2026-07-13": 641,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
