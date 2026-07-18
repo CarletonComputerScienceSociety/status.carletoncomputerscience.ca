@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1015,
-    "timeDay": 1175,
-    "timeWeek": 1143,
-    "timeMonth": 1111,
-    "timeYear": 1016,
+    "timeDay": 1442,
+    "timeWeek": 1148,
+    "timeMonth": 1122,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.40%",
     "time": 862,
-    "timeDay": 737,
-    "timeWeek": 757,
-    "timeMonth": 758,
+    "timeDay": 781,
+    "timeWeek": 764,
+    "timeMonth": 760,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -102,10 +102,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 340,
-    "timeDay": 456,
-    "timeWeek": 456,
+    "timeDay": 465,
+    "timeWeek": 461,
     "timeMonth": 454,
-    "timeYear": 341,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2025-07-24": 28,
       "2025-08-08": 12,
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 790,
+      "2026-07-18": 892,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -523,7 +523,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 791,
+      "2026-07-18": 894,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -907,7 +907,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 793,
+      "2026-07-18": 895,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -1280,7 +1280,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "19.25%",
+    "uptime": "19.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1291,7 +1291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 793,
+      "2026-07-18": 896,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
