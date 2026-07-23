@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1020,
-    "timeDay": 2068,
-    "timeWeek": 1325,
-    "timeMonth": 1168,
-    "timeYear": 1019,
+    "timeDay": 1823,
+    "timeWeek": 1361,
+    "timeMonth": 1172,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.40%",
     "time": 862,
-    "timeDay": 1020,
-    "timeWeek": 813,
-    "timeMonth": 777,
+    "timeDay": 1048,
+    "timeWeek": 826,
+    "timeMonth": 782,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -102,8 +102,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 342,
-    "timeDay": 1056,
-    "timeWeek": 516,
+    "timeDay": 1008,
+    "timeWeek": 522,
     "timeMonth": 472,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "65.88%",
+    "uptime": "65.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 957,
+      "2026-07-23": 1263,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -523,7 +523,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 958,
+      "2026-07-23": 1264,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -907,7 +907,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 960,
+      "2026-07-23": 1266,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -1291,7 +1291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 962,
+      "2026-07-23": 1267,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
