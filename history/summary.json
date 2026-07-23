@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1020,
-    "timeDay": 1899,
-    "timeWeek": 1340,
-    "timeMonth": 1179,
-    "timeYear": 1020,
+    "timeDay": 2068,
+    "timeWeek": 1325,
+    "timeMonth": 1168,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.40%",
     "time": 862,
-    "timeDay": 1029,
+    "timeDay": 1020,
     "timeWeek": 813,
-    "timeMonth": 776,
-    "timeYear": 861,
+    "timeMonth": 777,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2025-08-06": 8,
       "2025-08-12": 936,
@@ -102,10 +102,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 342,
-    "timeDay": 1006,
-    "timeWeek": 512,
-    "timeMonth": 470,
-    "timeYear": 344,
+    "timeDay": 1056,
+    "timeWeek": 516,
+    "timeMonth": 472,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2025-07-24": 28,
       "2025-08-08": 12,
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 832,
+      "2026-07-23": 957,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -512,7 +512,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "65.48%",
+    "uptime": "65.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -523,7 +523,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 833,
+      "2026-07-23": 958,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -907,7 +907,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 835,
+      "2026-07-23": 960,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -1291,7 +1291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 837,
+      "2026-07-23": 962,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
