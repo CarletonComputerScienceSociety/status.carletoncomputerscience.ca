@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1021,
-    "timeDay": 1614,
-    "timeWeek": 1212,
+    "timeDay": 1506,
+    "timeWeek": 1227,
     "timeMonth": 1126,
-    "timeYear": 1020,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.40%",
     "time": 861,
-    "timeDay": 948,
-    "timeWeek": 884,
-    "timeMonth": 800,
+    "timeDay": 912,
+    "timeWeek": 893,
+    "timeMonth": 802,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -102,9 +102,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 345,
-    "timeDay": 525,
-    "timeWeek": 556,
-    "timeMonth": 479,
+    "timeDay": 539,
+    "timeWeek": 558,
+    "timeMonth": 481,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-08-08": 12,
@@ -127,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "65.77%",
+    "uptime": "65.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1034,
+      "2026-07-26": 1152,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -522,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1036,
+      "2026-07-26": 1152,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -906,7 +906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1038,
+      "2026-07-26": 1154,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1290,7 +1290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1038,
+      "2026-07-26": 1154,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
