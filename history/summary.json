@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1019,
-    "timeDay": 867,
-    "timeWeek": 1090,
-    "timeMonth": 1116,
-    "timeYear": 1019,
+    "time": 1020,
+    "timeDay": 1303,
+    "timeWeek": 1146,
+    "timeMonth": 1130,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.40%",
     "time": 861,
-    "timeDay": 1043,
-    "timeWeek": 878,
-    "timeMonth": 798,
+    "timeDay": 1104,
+    "timeWeek": 877,
+    "timeMonth": 800,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -102,9 +102,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 345,
-    "timeDay": 565,
-    "timeWeek": 550,
-    "timeMonth": 479,
+    "timeDay": 626,
+    "timeWeek": 556,
+    "timeMonth": 480,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-08-08": 12,
@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 505,
+      "2026-07-26": 646,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -511,7 +511,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "65.38%",
+    "uptime": "65.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -522,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 507,
+      "2026-07-26": 647,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -906,7 +906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 509,
+      "2026-07-26": 649,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1290,7 +1290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 509,
+      "2026-07-26": 650,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
