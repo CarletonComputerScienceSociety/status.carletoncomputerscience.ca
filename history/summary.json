@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1021,
-    "timeDay": 1764,
-    "timeWeek": 1218,
-    "timeMonth": 1129,
+    "timeDay": 1805,
+    "timeWeek": 1161,
+    "timeMonth": 1130,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2025-08-06": 9
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.40%",
     "time": 860,
-    "timeDay": 790,
+    "timeDay": 896,
     "timeWeek": 886,
-    "timeMonth": 799,
+    "timeMonth": 802,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2025-08-06": 8,
@@ -102,9 +102,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 346,
-    "timeDay": 611,
-    "timeWeek": 618,
-    "timeMonth": 497,
+    "timeDay": 668,
+    "timeWeek": 626,
+    "timeMonth": 499,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2025-08-08": 12,
@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1163,
+      "2026-07-28": 1274,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -522,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1164,
+      "2026-07-28": 1276,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -906,7 +906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1166,
+      "2026-07-28": 1278,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -1279,7 +1279,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "19.14%",
+    "uptime": "19.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1290,7 +1290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1167,
+      "2026-07-28": 1278,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
