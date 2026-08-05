@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1022,
-    "timeDay": 665,
-    "timeWeek": 1127,
+    "time": 1021,
+    "timeDay": 651,
+    "timeWeek": 1073,
     "timeMonth": 1234,
-    "timeYear": 1023,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2025-08-06": 9
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.40%",
     "time": 859,
-    "timeDay": 600,
-    "timeWeek": 852,
-    "timeMonth": 814,
-    "timeYear": 860,
+    "timeDay": 526,
+    "timeWeek": 851,
+    "timeMonth": 812,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2025-08-06": 8,
       "2025-08-12": 936,
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 350,
-    "timeDay": 505,
-    "timeWeek": 552,
-    "timeMonth": 509,
+    "timeDay": 408,
+    "timeWeek": 549,
+    "timeMonth": 508,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-08-08": 12,
@@ -127,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "65.42%",
+    "uptime": "65.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 681,
+      "2026-08-05": 843,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -522,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 683,
+      "2026-08-05": 845,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -906,7 +906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 684,
+      "2026-08-05": 847,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -1290,7 +1290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 685,
+      "2026-08-05": 848,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
