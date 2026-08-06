@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1021,
-    "timeDay": 1045,
-    "timeWeek": 1041,
-    "timeMonth": 1218,
-    "timeYear": 1022,
+    "timeDay": 1033,
+    "timeWeek": 1038,
+    "timeMonth": 1215,
+    "timeYear": 1023,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "95.40%",
     "time": 859,
-    "timeDay": 751,
-    "timeWeek": 838,
-    "timeMonth": 817,
+    "timeDay": 761,
+    "timeWeek": 830,
+    "timeMonth": 815,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2025-08-12": 936,
@@ -99,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 351,
-    "timeDay": 741,
-    "timeWeek": 575,
+    "timeDay": 789,
+    "timeWeek": 573,
     "timeMonth": 519,
     "timeYear": 353,
     "dailyMinutesDown": {
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-06": 683,
+      "2026-08-06": 841,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
@@ -508,7 +508,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "64.98%",
+    "uptime": "64.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-06": 685,
+      "2026-08-06": 843,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
@@ -903,7 +903,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-06": 686,
+      "2026-08-06": 844,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
@@ -1287,7 +1287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-06": 688,
+      "2026-08-06": 846,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
