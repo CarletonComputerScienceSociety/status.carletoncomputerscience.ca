@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 764,
-    "timeWeek": 738,
-    "timeMonth": 903,
-    "timeYear": 1014,
+    "time": 1016,
+    "timeDay": 1005,
+    "timeWeek": 771,
+    "timeMonth": 908,
+    "timeYear": 1015,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "96.75%",
     "time": 860,
-    "timeDay": 1035,
-    "timeWeek": 832,
+    "timeDay": 858,
+    "timeWeek": 820,
     "timeMonth": 861,
     "timeYear": 859,
     "dailyMinutesDown": {
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 372,
-    "timeDay": 631,
-    "timeWeek": 587,
+    "timeDay": 591,
+    "timeWeek": 585,
     "timeMonth": 535,
     "timeYear": 375,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 995,
+      "2026-09-05": 1130,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -512,7 +512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 996,
+      "2026-09-05": 1131,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -885,7 +885,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "18.73%",
+    "uptime": "18.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -896,7 +896,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 998,
+      "2026-09-05": 1132,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -1280,7 +1280,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 999,
+      "2026-09-05": 1133,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
