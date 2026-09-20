@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
-    "timeDay": 516,
-    "timeWeek": 879,
-    "timeMonth": 721,
+    "timeDay": 470,
+    "timeWeek": 875,
+    "timeMonth": 715,
     "timeYear": 1012,
     "dailyMinutesDown": {}
   },
@@ -22,15 +22,15 @@
     "url": "https://scs.carleton.ca",
     "icon": "https://icons.duckduckgo.com/ip3/scs.carleton.ca.ico",
     "slug": "scs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "96.74%",
     "time": 857,
-    "timeDay": 592,
-    "timeWeek": 653,
+    "timeDay": 629,
+    "timeWeek": 658,
     "timeMonth": 831,
     "timeYear": 856,
     "dailyMinutesDown": {
@@ -78,7 +78,8 @@
       "2026-07-12": 15,
       "2026-07-13": 16,
       "2026-09-03": 75,
-      "2026-09-05": 62
+      "2026-09-05": 62,
+      "2026-09-20": 3
     }
   },
   {
@@ -93,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 383,
-    "timeDay": 652,
-    "timeWeek": 644,
-    "timeMonth": 534,
+    "timeDay": 600,
+    "timeWeek": 636,
+    "timeMonth": 535,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-10-11": 7,
@@ -128,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 1380,
+      "2026-09-20": 1413,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -512,7 +513,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 1381,
+      "2026-09-20": 1415,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -896,7 +897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 1383,
+      "2026-09-20": 1416,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -1280,7 +1281,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 1383,
+      "2026-09-20": 1417,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
