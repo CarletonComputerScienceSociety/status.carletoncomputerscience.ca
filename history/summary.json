@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 645,
-    "timeWeek": 744,
+    "time": 1008,
+    "timeDay": 667,
+    "timeWeek": 746,
     "timeMonth": 895,
     "timeYear": 1016,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "96.71%",
     "time": 848,
-    "timeDay": 1013,
-    "timeWeek": 856,
-    "timeMonth": 828,
+    "timeDay": 1078,
+    "timeWeek": 874,
+    "timeMonth": 826,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2025-11-12": 9,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 402,
-    "timeDay": 640,
-    "timeWeek": 646,
-    "timeMonth": 628,
+    "timeDay": 755,
+    "timeWeek": 655,
+    "timeMonth": 630,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2025-11-17": 12,
@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1230,
+      "2026-10-21": 1437,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -502,7 +502,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "62.37%",
+    "uptime": "62.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -513,7 +513,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1232,
+      "2026-10-21": 1438,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -897,7 +897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1233,
+      "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -1270,7 +1270,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "18.27%",
+    "uptime": "18.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1281,7 +1281,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1235,
+      "2026-10-22": 1,
+      "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -1644,8 +1645,7 @@
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
-      "2025-10-23": 1440,
-      "2025-10-22": 1440
+      "2025-10-23": 1440
     }
   }
 ]
