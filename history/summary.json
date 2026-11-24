@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1004,
-    "timeDay": 317,
-    "timeWeek": 696,
+    "time": 1003,
+    "timeDay": 202,
+    "timeWeek": 683,
     "timeMonth": 709,
-    "timeYear": 1002,
+    "timeYear": 1003,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.71%",
     "time": 846,
-    "timeDay": 1108,
-    "timeWeek": 1140,
-    "timeMonth": 1059,
+    "timeDay": 863,
+    "timeWeek": 1114,
+    "timeMonth": 1056,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2025-11-30": 6,
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 422,
-    "timeDay": 467,
-    "timeWeek": 422,
-    "timeMonth": 569,
+    "timeDay": 390,
+    "timeWeek": 418,
+    "timeMonth": 566,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-12-12": 9,
@@ -115,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discretemath.ca.ico",
     "slug": "discrete-math-ca",
     "status": "down",
-    "uptime": "61.68%",
+    "uptime": "61.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -126,7 +126,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 1349,
+      "2026-11-24": 406,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -489,8 +490,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -499,7 +499,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.discretemath.ca.ico",
     "slug": "discrete-math-ca-api",
     "status": "down",
-    "uptime": "61.30%",
+    "uptime": "61.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -510,7 +510,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 1351,
+      "2026-11-24": 407,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -873,8 +874,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -883,7 +883,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.carletoncomputerscience.ca.ico",
     "slug": "merged",
     "status": "down",
-    "uptime": "17.95%",
+    "uptime": "17.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -894,7 +894,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 1352,
+      "2026-11-24": 408,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1257,8 +1258,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -1267,7 +1267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merged.carletoncomputerscience.ca.ico",
     "slug": "merged-api",
     "status": "down",
-    "uptime": "17.95%",
+    "uptime": "17.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1278,7 +1278,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 1353,
+      "2026-11-24": 410,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1641,8 +1642,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   }
 ]
